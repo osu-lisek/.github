@@ -16,4 +16,4 @@ To submit a complaint regarding a player, please navigate to their profile page 
 
 ## Where can I lodge an appeal to have my account unblocked?
 
-To appeal the blocking of your account, please send an email to **"contact@lisek.com"** with the subject line **"Appeal from [your username]"**, which is *optional* but may help expedite the processing of your request.
+To appeal the blocking of your account, please send an email to **"contact@lisek.cc"** with the subject line **"Appeal from [your username]"**, which is *optional* but may help expedite the processing of your request.
